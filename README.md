@@ -7,6 +7,6 @@ people like us who live in Milan. In this this project, we aim to use machine le
 ## Contents
 
 - [Notebook](main.ipynb): Contains all the code. From EDA and approach with missing values and outliers, to feature engineering and machine learning models.
-- [PDF Report](project.pdf): Four pages summary containing explanations and interpretations for the strategies and procedures adopted.
+- [PDF Report](report.pdf): Four pages summary containing explanations and interpretations for the strategies and procedures adopted.
 
 **Please note that the dataset used in this project is private and cannot be made available.**
